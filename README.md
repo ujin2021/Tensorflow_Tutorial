@@ -86,3 +86,6 @@ model.fit(idp, dp, epochs=10) # loss 값이 0에 가까워져야 함
 <img src="https://user-images.githubusercontent.com/53362054/98071192-3d7def80-1ea6-11eb-94e1-a2c86df1303d.png" width=500 height=250>
 
 > w : 가중치, 결과 y : bias
+
+### :closed_book: DeepLearning Workbook
+<a href="https://docs.google.com/spreadsheets/d/1hoXQEFUGL74Kg4tui7vXqF1zMujdFNAREl55cDNgCME/edit?usp=sharing"> workbook </a>
