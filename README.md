@@ -8,8 +8,8 @@ opentutorial course  <br>
 :white_check_mark: 표를 다루는 도구 '판다스' <br>
 :white_check_mark: 첫번째 딥러닝 - 레모네이드 판매 예측 <br>
 :white_check_mark: 두번째 딥러닝 - 보스턴 집값 예측 <br>
-:black_square_button: 학습의 실제 <br>
-:black_square_button: 세번째 딥러닝 - 아이리스 품종 분류 <br>
+:white_check_mark: 학습의 실제 <br>
+:white_check_mark: 세번째 딥러닝 - 아이리스 품종 분류 <br>
 :black_square_button: 신경망의 완성 : 히든레이터 <br>
 :black_square_button: 부록1 : 데이터를 위한 팁 <br>
 :black_square_button: 부록2 : 모델의 위한 팁 <br>
