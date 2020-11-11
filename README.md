@@ -112,7 +112,7 @@ ex)
 * 평가지표로 정확도를 사용(metrics='accuracy') 1은 모두 맞춘것, 0은 모두 틀린것
 
 ### :closed_book: Hidden Layer
-기존의 퍼셉트론을 여러개 사용하여 연결한 것
+기존의 퍼셉트론을 여러개 사용하여 연결한 것 <br>
 <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4992/12388.png" width=500 height=250> 
 * Input Layer - Hidden Layer : 13개의 input으로 5개의 결과를 만들어냄
 * Hidden Layer - Output Layer : 5개의 input으로 1개의 결과를 만들어냄
