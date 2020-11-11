@@ -10,7 +10,7 @@ opentutorial course  <br>
 :white_check_mark: 두번째 딥러닝 - 보스턴 집값 예측 <br>
 :white_check_mark: 학습의 실제 <br>
 :white_check_mark: 세번째 딥러닝 - 아이리스 품종 분류 <br>
-:black_square_button: 신경망의 완성 : 히든레이 <br>
+:black_square_button: 신경망의 완성 : 히든레이어 <br>
 :black_square_button: 부록1 : 데이터를 위한 팁 <br>
 :black_square_button: 부록2 : 모델의 위한 팁 <br>
 :black_square_button: 수업을 마치며 <br>
@@ -125,3 +125,9 @@ ex)
 * loss로는 categorical_crossentropy를 사용한다(회귀에서는 mse)
 * 평가지표로 정확도를 사용(metrics='accuracy') 1은 모두 맞춘것, 0은 모두 틀린것
 
+### :closed_book: Hidden Layer
+기존의 퍼셉트론을 여러개 사용하여 연결한 것
+<img src=
+"https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4992/12388.png" width=500 height=250> 
+* Input Layer - Hidden Layer : 13개의 input으로 5개의 결과를 만들어냄
+* Hidden Layer - Output Layer : 5개의 input으로 1개의 결과를 만들어냄
